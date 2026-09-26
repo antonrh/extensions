@@ -5138,6 +5138,10 @@ version = "0.1.0"
 submodule = "extensions/sql"
 version = "1.1.8"
 
+[sqlakit-lsp]
+submodule = "extensions/sqlakit-lsp"
+version = "0.1.0"
+
 [sqlalchemy-lsp]
 submodule = "extensions/sqlalchemy-lsp"
 path = "editors/zed"

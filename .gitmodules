@@ -5034,6 +5034,10 @@
 	path = extensions/sql
 	url = https://github.com/zed-extensions/sql.git
 
+[submodule "extensions/sqlakit-lsp"]
+	path = extensions/sqlakit-lsp
+	url = https://github.com/sqlakit/sqlakit-zed.git
+
 [submodule "extensions/sqlalchemy-lsp"]
 	path = extensions/sqlalchemy-lsp
 	url = https://github.com/alex-oleshkevich/sqlalchemy-lsp
